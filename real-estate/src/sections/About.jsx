@@ -26,7 +26,7 @@ const About = () => {
           data-aos="zoom in"
           src={aboutimg}
           alt="about image"
-          className="rounded-2xl lg:w-[500] lg:h-[600]"
+          className="rounded-2xl lg:w-[500px] lg:h-[600px] w-[250px] h-[250px] object-cover"
         />
       </div>
       <div className="flex flex-col justify-center items-start gap-6">

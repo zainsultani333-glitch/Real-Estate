@@ -19,7 +19,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="{`${darkMode? 'dark bg-black' : light bg-transparent'}`} w-full m-auto lg:px-40 px-10 py-20 grid lg:grid-cols-2 grid-cols-1 gap-10 justify-center items-center"
+      className="{`${darkMode? 'dark bg-black' : 'light bg-transparent'}`} w-full m-auto lg:px-40 px-10 py-20 grid lg:grid-cols-2 grid-cols-1 gap-10 justify-center items-center"
     >
       <div>
         <img

@@ -32,7 +32,7 @@ const Services = () => {
           </h1>
           <h1
             data-aos="zoom in"
-            className="text-black text-[40px] font-semibold leading-10"
+            className="text-black text-[40px] font-semibold leading-10 dark:text-white"
           >
             Top real estate <br /> services available
           </h1>

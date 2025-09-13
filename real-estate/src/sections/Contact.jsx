@@ -69,14 +69,14 @@ const Contact = () => {
           <h1
             data-aos="zoom in"
             data-aos-delay="200"
-            className="text-black text-[40px] leading-10 font-semibold"
+            className="text-black text-[40px] leading-10 font-semibold dark:text-white"
           >
             Get in touch with us today and our team will assist you
           </h1>
           <p
             data-aos="zoom in"
             data-aos-delay="200"
-            className="text-gray-600 text-[15px] font-regular "
+            className="text-gray-600 text-[15px] font-regular dark:text-gray-300"
           >
             Our experts and developers would love to contribute their expertise
             and insights and help you today. Contact us to help you plan your

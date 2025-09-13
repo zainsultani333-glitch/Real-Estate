@@ -77,8 +77,10 @@ const PopularAreas = () => {
             data-aos-delay="200"
             className="flex flex-col items-center gap-4 w-full"
           >
-            <h1 className="text-black text-7xl font-bold">5K</h1>
-            <h1>ACTIVE LISTING</h1>
+            <h1 className="text-black dark:text-white text-7xl font-bold">
+              5K
+            </h1>
+            <h1 className="text-black dark:text-white">ACTIVE LISTING</h1>
           </div>
 
           <div
@@ -86,8 +88,10 @@ const PopularAreas = () => {
             data-aos-delay="200"
             className="flex flex-col items-center gap-4 w-full"
           >
-            <h1 className="text-black text-7xl font-bold">5K</h1>
-            <h1>ACTIVE LISTING</h1>
+            <h1 className="text-black dark:text-white text-7xl font-bold">
+              5K
+            </h1>
+            <h1 className="text-black dark:text-white">ACTIVE LISTING</h1>
           </div>
 
           <div
@@ -95,8 +99,10 @@ const PopularAreas = () => {
             data-aos-delay="200"
             className="flex flex-col items-center gap-4 w-full"
           >
-            <h1 className="text-black text-7xl font-bold">5K</h1>
-            <h1>ACTIVE LISTING</h1>
+            <h1 className="text-black dark:text-white text-7xl font-bold">
+              5K
+            </h1>
+            <h1 className="text-black dark:text-white">ACTIVE LISTING</h1>
           </div>
         </div>
       </section>

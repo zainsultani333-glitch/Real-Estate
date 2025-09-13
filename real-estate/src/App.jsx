@@ -1,31 +1,31 @@
-import React from 'react'
-import { DarkModeProvider } from './components/DarkModeContext'
-import Header from './components/Header'
-import Properties from './sections/Properties'
-import Services from './sections/Services'
-import Clients from './sections/Clients'
-import Contact from './sections/Contact'
-import Footer from './components/Footer'
-import Hero from './sections/Hero'
-import About from './sections/About'
-import PopularAreas from './sections/PopularAreas'
+import React from "react";
+import { DarkModeProvider } from "./components/DarkModeContext";
+import Header from "./components/Header";
+import Properties from "./sections/Properties";
+import Services from "./sections/Services";
+import Clients from "./sections/Clients";
+import Contact from "./sections/Contact";
+import Footer from "./components/Footer";
+import Hero from "./sections/Hero";
+import About from "./sections/About";
+import PopularAreas from "./sections/PopularAreas";
 
 const App = () => {
   return (
-   <>
+    <>
       <DarkModeProvider>
         <Header />
         <Hero />
-        <About/>
-        <PopularAreas/>
+        <About />
+        <PopularAreas />
         <Properties />
         <Services />
         <Clients />
         <Contact />
         <Footer />
       </DarkModeProvider>
-   </>
-  )
-}
+    </>
+  );
+};
 
-export default App
+export default App;

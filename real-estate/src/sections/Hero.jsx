@@ -79,10 +79,10 @@ const Hero = () => {
             rounded-xl
             justify-center items-center gap-6 -mt-14
             lg:grid-cols-4 lg:w-[70%]
-            ${darkMode ? "dark bg-black" : "light bg-white"}
+            ${darkMode ? "dark bg-gray-800" : "light bg-white"}
           `}
         >
-          <div cloassName="w-full">
+          <div className="w-full">
             <h1
               className="
                 text-black font-semibold
